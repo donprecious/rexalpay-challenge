@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RexelPayChallenge", "RexelPayChallenge\RexelPayChallenge.csproj", "{802968D3-6F1B-43D1-9358-EDDD0DC45EE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RexelPayChallenge.Test", "RexelPayChallenge.Test\RexelPayChallenge.Test.csproj", "{0D7A4365-D833-42D6-93CE-0C5C9A601361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802968D3-6F1B-43D1-9358-EDDD0DC45EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802968D3-6F1B-43D1-9358-EDDD0DC45EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802968D3-6F1B-43D1-9358-EDDD0DC45EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802968D3-6F1B-43D1-9358-EDDD0DC45EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D7A4365-D833-42D6-93CE-0C5C9A601361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D7A4365-D833-42D6-93CE-0C5C9A601361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D7A4365-D833-42D6-93CE-0C5C9A601361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D7A4365-D833-42D6-93CE-0C5C9A601361}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2849D70E-2A16-4D26-A5F3-EEF3AC0AEC4A}
+	EndGlobalSection
+EndGlobal
